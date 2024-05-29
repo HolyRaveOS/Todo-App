@@ -20,7 +20,7 @@ This is a simple ToDo application built using React that interacts with an API f
    Navigate to the project directory:
    sh
    Copy code
-   cd react_todo-app-with-api
+   cd Todo-App
    Install dependencies:
    sh
    Copy code
